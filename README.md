@@ -1,7 +1,6 @@
 ## Hello, I'm Student Developer
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,lua,python,blender" />
-  </a>
-</p>
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
